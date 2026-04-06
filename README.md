@@ -1,2 +1,2 @@
 # CodeCrypto
-Nueva rama para gurdar los proyectos 2026
+Nueva rama para guardar los proyectos 2026
